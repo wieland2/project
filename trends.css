@@ -1,0 +1,18 @@
+.trending-rate {
+display: flex;
+align-items: center;
+margin-top: 20px;
+}
+
+.trending-rate-title {
+font-size: 13px;
+margin-left: 5px;
+}
+
+.search-bar {
+width: 200px;
+height: 30px;
+border-radius: 100px;
+border: thin solid;
+
+}

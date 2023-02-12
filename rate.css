@@ -1,0 +1,36 @@
+.post-content {
+display: inline-block;
+margin-bottom: 28px;
+}
+
+.icon-tag {
+display: inline-block;
+}
+
+.post-rate {
+margin-bottom: 0;
+}
+
+.post-footnote {
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 15px;
+}
+
+.post-text {
+font-size: 15px;
+text-align: left;
+}
+
+.post-card {
+border-bottom: thin solid;
+border-color:rgba(128, 128, 128, 0.614);
+width: 600px;
+margin-top: 15px;
+margin-left: 25px;
+}
+
+.post-title {
+margin-top: 3px;
+}

@@ -1,0 +1,52 @@
+.side-bar{
+display: flex;
+flex-direction: column;
+justify-content: top;
+border-right: thin solid;
+position: fixed;
+bottom: 0;
+top: 0;
+left: 0;
+width: 450px;
+background-color: white
+}
+
+.profile-pic {
+width: 27px;
+border-radius: 50%;
+object-fit: cover;
+}
+  
+.card {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+margin-top: 20px;
+margin-bottom: 10px;
+margin-left: 20px;
+}
+  
+.icon {
+margin-left: 10px;
+margin-right: 10px;
+color: black;
+}
+  
+.icon-title {
+font-size: 18px;
+text-align: start;
+}
+
+.icon:hover {
+background-color: rgba(144, 144, 144, 0.254);
+padding: 15px;
+}
+
+.side-bar-title {
+margin-left: 9px;
+font-size: 80px;
+background-color: rgb(30, 142, 56);
+padding: 20px;
+border-radius: 20px;
+color: rgb(226, 226, 226);
+}

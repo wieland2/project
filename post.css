@@ -1,0 +1,43 @@
+.post-img-profile-picture {
+width: 40px;
+object-fit: cover;
+border-radius: 50%;
+margin-right: 10px;
+}
+
+.user-name {
+margin-right: 10px;
+font-size: 12px;
+}
+  
+.username {
+font-size: 12px;
+}
+    
+.post-text {
+font-size: 12px;
+}
+
+.user-post-card {
+width: 600px;
+margin-top: 15px;
+margin-left: 25px;
+border-bottom: solid thin;
+border-color: rgba(128, 128, 128, 0.614);
+}
+
+.user-post {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+margin-top: 3px;
+}
+
+.user-post-text {
+text-align: left;
+font-size: 18px;
+}
+
+.icon-post {
+color:black;
+}
